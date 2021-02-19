@@ -1,8 +1,7 @@
-# IEC2-2019 repository
+# "SpecialSubject1" course repository
 
-This repository contains course material (codes, exercises) of the Sharif University data mining challenge. 
+This repository contains course material (codes, exercises) of "SpecialSubject1" course (MachineLearning and DeepNeuralNetworks). 
 
-![](poster.jpg)
 
 ### The requirements
 
